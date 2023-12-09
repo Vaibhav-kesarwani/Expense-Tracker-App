@@ -1,4 +1,4 @@
-import 'package:expensetrackerapp/expenses.dart';
+import 'package:expensetrackerapp/widgets/expenses.dart';
 import 'package:flutter/material.dart';
 
 void main() {
