@@ -6,7 +6,7 @@
 
 ## How to setup project locally
 
-This repository contains a Flutter project. To get started, follow the steps below to set up the project on your local machine.
+This repository contains a Flutter project. To get started, follow the steps below to set up the project on your local machine..
 
 ## Prerequisites
 
